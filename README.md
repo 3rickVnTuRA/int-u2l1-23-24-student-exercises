@@ -35,7 +35,7 @@ There are over 100 HTML tags that allow you to add various elements to a webpage
 
 Here are some HTML tags we'll practice today:
 
-- Paragraph: `<p> </p>`
+- Paragraph: `<p> </p>` 
 - Headings: `<h1> </h1>` (up to `<h6> </h6>`)
 - Button: `<button> </button>`
 - Ordered List: `<ol> </ol>`
